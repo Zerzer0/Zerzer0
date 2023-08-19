@@ -9,7 +9,7 @@
 <div align="center">
 
 Hello! My name is Mathias González, I live in Los Andes, Chile and I currently studying Data Science, looking for learn more about of 
-use of the Machine Learning in the Astronomy ans Physics.
+use of the Machine Learning in the Astronomy and Physics.
 
 </div>
 
@@ -30,7 +30,7 @@ use of the Machine Learning in the Astronomy ans Physics.
 
 - 💙 I'm interested in Astroinformatics, the use of Machine Learning in Astronomy and Physics, Image Processing and Artificial Intelligence.
 - 📚 I'm a Master's student in Data Sciences from the University of Chile.
-- 👾 I really enjoy play videogames and table tennis.
+- 👾 I really enjoy playing video games and table tennis.
 - 📸 I also like astro-photography and streaming!
 
 <br>
